@@ -1,5 +1,8 @@
 _repo: Die-Bruder-Schellenberg_67112
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67112-h/images/cover.jpg
 creator:
   author:
     agent_name: Kellermann, Bernhard
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Bernhard_Kellermann
     - https://de.wikipedia.org/wiki/Bernhard_Kellermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67112#Die-Bruder-Schellenberg
 gutenberg_issued: '2022-01-06'
 identifiers:
   gutenberg: '67112'
